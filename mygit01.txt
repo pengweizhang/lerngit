@@ -1,2 +1,2 @@
-﻿hello git
-The first use the Git
+﻿hello my git
+the good version manager systerm
